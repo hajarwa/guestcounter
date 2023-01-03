@@ -1,0 +1,61 @@
+body {
+    background-image: url("newyearoccasion.jpg");
+    height: 100vh;
+    background-size: cover;
+    font-family: Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #4a4e69;
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 70px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.container{
+    background-color: #caf0f8;
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 100%;
+    margin: 100px auto;
+    border: 3px solid #b5838d
+    
+}
+p{
+    padding-bottom: 70px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+button {
+    border: 4px solid #00b4d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+button:hover{
+    color: #b5838d;
+    box-shadow: 2px 4px 2px #4a4e69
+}
+
+#increment-btn {
+    background: #03045e;
+}
+
+#save-btn {
+    background: #cdb4db;
+}
+
